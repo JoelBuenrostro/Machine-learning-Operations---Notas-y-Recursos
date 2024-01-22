@@ -1,5 +1,37 @@
 # Introducción a la IA y visión empresarial
 
+## Principales Aproximaciones de Pensamiento en Inteligencia Artificial
+
+1. Simbolismo (IA Clásica)
+Enfoque: Basado en la representación explícita del conocimiento a través de símbolos y reglas lógicas.
+Principio: La inteligencia puede ser emulada mediante la manipulación simbólica de conocimientos codificados.
+Aplicaciones: Sistemas expertos, motores de inferencia.
+Ejemplos: Prolog, LISP.
+
+2. Conexionismo (Redes Neuronales)
+Enfoque: Inspirado en la estructura y funcionamiento del cerebro humano.
+Principio: La inteligencia emerge de la interconexión de una gran cantidad de unidades simples (neuronas artificiales).
+Aplicaciones: Reconocimiento de patrones, aprendizaje profundo (Deep Learning).
+Ejemplos: Redes neuronales convolucionales, redes recurrentes.
+
+3. Evolucionismo (Algoritmos Genéticos)
+Enfoque: Inspirado en la teoría de la evolución biológica.
+Principio: La solución a un problema puede evolucionar a través de procesos de selección natural y genética.
+Aplicaciones: Optimización, búsqueda de soluciones en espacios complejos.
+Ejemplos: Optimización de carteras de inversión, diseño asistido por computadora.
+
+4. Comportamentalismo (Agentes Inteligentes)
+Enfoque: Basado en el comportamiento observable y la interacción con el entorno.
+Principio: La inteligencia puede ser definida por la capacidad de un agente para operar de manera autónoma y adecuada en su entorno.
+Aplicaciones: Robótica, sistemas de respuesta autónoma.
+Ejemplos: Agentes autónomos en videojuegos, robots de exploración.
+
+5. Híbridos y Enfoques Integradores
+Enfoque: Combinación de múltiples métodos y técnicas de IA.
+Principio: La integración de enfoques ofrece una solución más completa y robusta.
+Aplicaciones: Sistemas de IA más complejos y versátiles.
+Ejemplos: Asistentes virtuales inteligentes, vehículos autónomos.
+
 ## Machine Learning (ML)
 
 El Machine Learning es una rama de la inteligencia artificial que se centra en la construcción de sistemas capaces de aprender de los datos. En lugar de ser explícitamente programados para realizar una tarea, estos sistemas mejoran su rendimiento a medida que se exponen a más datos.
@@ -20,6 +52,8 @@ Algunas aplicaciones comunes incluyen:
 * Recomendaciones de productos
 * Predicción de tendencias de mercado
 * Diagnósticos médicos
+
+![Vista geneal de modelos de Machine Learning](../Recursos/Imagenes/Machine%20Learning%20Models%20Overview.png)
 
 ## MLOps (Machine Learning Operations)
 
