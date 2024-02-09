@@ -83,6 +83,8 @@ Algunas de las operaciones que se pueden realizar con matrices son:
 ## Referencias
 
 - Grossman, S. (2012). Álgebra lineal (7ma ed.).
-- NumPy Developers. (2008-2022). Routines: Linear algebra (numpy.linalg). Recuperado de 
-https://numpy.org/doc/stable/reference/routines.linalg.html
+
+- NumPy Developers. (2008-2022). Routines: Linear algebra (numpy.linalg). Recuperado de
+<https://numpy.org/doc/stable/reference/routines.linalg.html>
+
 - Brownlee, J. (2018). Basics of Linear Algebra for Machine Learning.
